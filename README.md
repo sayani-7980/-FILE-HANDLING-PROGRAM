@@ -18,3 +18,5 @@ THIS  PROGRAME HELP ME TO CREATE A FILE,AND ENHANCE MY SKILLS IN C PRGRAMMING.
 OUTPUT
 
 ![Image](https://github.com/user-attachments/assets/4304c798-c76e-4f80-8d52-b8b84142d005)
+
+![Image](https://github.com/user-attachments/assets/497ce295-0392-4e1b-a93b-032333fa0976)
